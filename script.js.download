@@ -1,0 +1,10 @@
+function showProject() {
+
+    alert(
+        "Grocery Inventory System\n\n" +
+        "This project demonstrates a basic inventory " +
+        "management system for recording products, " +
+        "prices, and quantities."
+    );
+
+}
